@@ -4,13 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Food App UI.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2022 07 26_12 20 27 291](https://user-images.githubusercontent.com/62571684/180937392-3f1d7a0c-2653-4aa7-ad06-37877f2eb4b3.png)
+![Screenshot_2022 07 26_12 20 29 990](https://user-images.githubusercontent.com/62571684/180937407-e0eb7745-d437-490e-9003-4736e208b2b2.png)
